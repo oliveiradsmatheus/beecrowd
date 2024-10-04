@@ -24,6 +24,6 @@
 
   > [!WARNING]
   >
-  > Esses códigos foram e ainda estão sendo criados durante um período de aprendizado e podem conter erros ou não contar com as melhores técnicas para melhor performance. Eles estão disponibilizados aqui apenas para fins acadêmicos e de estudo.
+  > Esses códigos foram e ainda estão sendo criados durante um período de aprendizado e podem conter erros ou não contar com as melhores técnicas de programação. Eles estão disponibilizados aqui apenas para fins acadêmicos e de estudo.
 
   ##### [beecrowd](https://judge.beecrowd.com/pt/profile/792168)
