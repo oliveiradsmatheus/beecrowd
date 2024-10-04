@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 int MDC(int x, int y) {
-    int mdc = 2, i = 2, resto;
-    char div = 1;
+    int resto;
 
     do {
         resto = x % y;
