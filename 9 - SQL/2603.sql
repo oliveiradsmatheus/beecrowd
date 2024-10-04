@@ -1,0 +1,1 @@
+select name,street from customers where lower(city) = 'porto alegre'
