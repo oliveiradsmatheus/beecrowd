@@ -3,7 +3,7 @@
 #define tf 32
 
 int main() {
-    long long int n1, n2, i, aux, total, resto1[tf], resto2[tf], result[tf];
+    long long int n1, n2, i, total, resto1[tf], resto2[tf], result[tf];
     while (scanf("%lld %lld", &n1, &n2) != EOF) {
         for (i = 0; i < tf; i++) {
             resto1[i] = 0;

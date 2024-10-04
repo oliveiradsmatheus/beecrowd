@@ -3,10 +3,9 @@
 int Fibonacci(int num, int *Chamadas) {
     if (num == 0 || num == 1) {
         return num;
-        *Chamadas++;
     } else {
         *Chamadas += 2;
-        return Fibonacci(num - 1, *Chamadas) + Fibonacci(num - 2, *Chamadas);
+        return Fibonacci(num - 1, &(*Chamadas)) + Fibonacci(num - 2, &(*Chamadas));
     }
 }
 
