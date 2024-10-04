@@ -12,13 +12,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d75f0347-5188-499e-85ee-bb0204fc025c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2 - Ad-Hoc/1026.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1 - Iniciante/1000.c" beforeDir="false" afterPath="$PROJECT_DIR$/1 - Iniciante/1000.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2 - Ad-Hoc/1029.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3 - Strings/1024.c" beforeDir="false" afterPath="$PROJECT_DIR$/3 - Strings/1024.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6 - Paradigmas/1029.c" beforeDir="false" afterPath="$PROJECT_DIR$/6 - Paradigmas/1029.c" afterDir="false" />
-    </list>
+    <list default="true" id="d75f0347-5188-499e-85ee-bb0204fc025c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +65,7 @@
       <recent name="C:\Users\Matheus\Documents\GitHub\beecrowd\2 - Ad-Hoc" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.1029.c (1)">
+  <component name="RunManager" selected="C/C++ File.1026.c">
     <configuration name="1000.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="beecrowd" TARGET_NAME="1000.c" CONFIG_NAME="1000.c">
       <option name="sourceFile" value="1 - Iniciante\1000.c" />
       <method v="2">
@@ -127,7 +121,7 @@
       <workItem from="1728071775198" duration="72000" />
       <workItem from="1728071854920" duration="183000" />
       <workItem from="1728072197467" duration="1613000" />
-      <workItem from="1728073833812" duration="58000" />
+      <workItem from="1728073833812" duration="199000" />
     </task>
     <servers />
   </component>
