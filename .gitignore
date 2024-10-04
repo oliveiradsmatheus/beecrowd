@@ -42,6 +42,9 @@
 *.idb
 *.pdb
 
+# Pastas
+.idea/
+
 # Kernel Module Compile Results
 *.mod*
 *.cmd
