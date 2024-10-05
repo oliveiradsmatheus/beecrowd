@@ -42,8 +42,11 @@
 *.idb
 *.pdb
 
-# Pastas
+# Pastas e Arquivos
 .idea/
+entrada.txt
+saida.txt
+saidabee.txt
 
 # Kernel Module Compile Results
 *.mod*
