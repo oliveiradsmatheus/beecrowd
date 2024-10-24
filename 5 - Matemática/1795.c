@@ -5,7 +5,7 @@ int main(void) {
     long long int soma = 0;
 
     for (i = 0; i < 21; i++)
-        for (j = 0; j < 41 ; j++)
+        for (j = 0; j < 41; j++)
             Triangulo[i][j] = 0;
     Triangulo[0][20] = 1;
     for (i = 1; i < 21; i++)
