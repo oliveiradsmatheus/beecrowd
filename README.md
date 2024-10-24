@@ -17,7 +17,7 @@
   5. [Matemática](https://github.com/oliveiradsmatheus/beecrowd/tree/main/5%20-%20Matem%C3%A1tica)
   6. [Paradigmas](https://github.com/oliveiradsmatheus/beecrowd/tree/main/6%20-%20Paradigmas)
   7. [Grafos]
-  8. [Geometria Computacional]
+  8. [Geometria Computacional](https://github.com/oliveiradsmatheus/beecrowd/tree/main/8%20-%20Geometria%20Computacional)
   9. [SQL](https://github.com/oliveiradsmatheus/beecrowd/tree/main/9%20-%20SQL)
 
   <br />
