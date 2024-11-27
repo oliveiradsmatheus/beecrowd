@@ -16,4 +16,5 @@ int main(void) {
         Girassois = (PI * Rmaior * Rmaior) - AreaT;
         printf("%.4lf %.4lf %.4lf\n", Girassois, Violetas, Rosas);
     }
+    return 0;
 }
